@@ -2,7 +2,6 @@
 Servizio Terminologico Integrato
 # 
 
-# Servizio Terminologico Integrato (STI)
 
 
 
